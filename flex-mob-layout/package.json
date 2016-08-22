@@ -1,0 +1,16 @@
+{
+  "name": "flexbox8-mobile-app-layout",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "gulp styles"
+  },
+  "author": "Marie Sajan",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1"
+  }
+}
