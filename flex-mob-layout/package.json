@@ -5,7 +5,7 @@
   "main": "gulpfile.js",
   "scripts": {
     "start": "gulp styles",
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Marie Sajan",
   "license": "ISC",
