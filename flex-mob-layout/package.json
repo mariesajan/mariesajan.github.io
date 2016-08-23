@@ -4,8 +4,8 @@
   "description": "",
   "main": "gulpfile.js",
   "scripts": {
+    "start": "gulp styles",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "postinstall": "gulp styles"
   },
   "author": "Marie Sajan",
   "license": "ISC",
