@@ -8,7 +8,7 @@ body{
   display: none;
 }
 .page{
-  background-image: url('../img/body_bg.jpg');
+  background-image: url('../img/background.jpg');
 }
 .info{
   font-style: italic;
