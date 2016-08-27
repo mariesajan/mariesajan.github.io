@@ -1,8 +1,8 @@
 {
-  "name": "flexbox-single-line-form",
+  "name": "flexbox-mob-content-reordering",
   "version": "1.0.0",
-  "description": "",
-  "main": "gulpfile.js",
+  "description": "This is an example static webpage done in flexbox to study about mobile content reordering",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "gulp": "^3.9.1",
-    "gulp-autoprefixer": "^3.1.1"
+    "gulp-autoprefixer": "^3.1.0"
   }
 }
