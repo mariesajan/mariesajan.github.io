@@ -1,16 +1,15 @@
 {
-  "name": "flexbox8-mobile-app-layout",
+  "name": "flex-example-layout",
   "version": "1.0.0",
-  "description": "",
-  "main": "gulpfile.js",
+  "description": "This is an example static webpage done in flexbox",
+  "main": "index.js",
   "scripts": {
-    "start": "gulp styles",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Marie Sajan",
   "license": "ISC",
   "dependencies": {
     "gulp": "^3.9.1",
-    "gulp-autoprefixer": "^3.1.1"
+    "gulp-autoprefixer": "^3.1.0"
   }
 }
