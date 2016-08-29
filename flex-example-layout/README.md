@@ -10,6 +10,8 @@ When webpage is resized, order of items change.
 
 - Order of grids change
 
+- Odd number and even number grids come together when window is resized and revert back to the initial order when resized to minimum
+
 
 ### Demo
 Click [here](https://mariesajan.github.io/flex-example-layout/) for demo
